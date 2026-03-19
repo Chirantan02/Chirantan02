@@ -1,5 +1,7 @@
 # Hey, I'm Chirantan
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chirantan02&theme=gruvbox&hide_border=true)
+
 21. Dropped out of college to build my AI startup full-time for 1.5 years. Now studying BSc AI at JKU Linz, Austria.
 
 ## What I've built (solo, all of it)
